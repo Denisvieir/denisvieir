@@ -1,6 +1,8 @@
 ## Hi there :pencil2:
-
-Eu sou Denis Vieire sou um programador front end ,atualmente estou aprendendo e criando projetos com:
+Ensino superior.
+Sou formado em técnologia da imformção. T.I
+Estou em faze de transição de carreira.
+Eu sou Denis Vieira sou um programador front end ,atualmente estou aprendendo e criando projetos com:
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 <br>
